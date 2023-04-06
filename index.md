@@ -13,6 +13,7 @@ Here is the screenshot of the vscode git:
 ![gitvscode](images/vscodegit.png)
 ## Quotes
 > This is a very profound quote, yes indeed  
+
 You can use the `print()` function to print something  
 For example `printf("Hello, World\n")`  
 Anyway, here is a code block:  

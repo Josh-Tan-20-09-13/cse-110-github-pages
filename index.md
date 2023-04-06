@@ -8,9 +8,9 @@ I enjoy good food, socializing, video games, and sleeping.
 ***Anyway, that is all for this section***
 ## Images
 Here is the screenshot of the git command line:  
-![gitcmd](images/cmdgit.png)
+![gitcmd](screenshots/cmdgit.png)
 Here is the screenshot of the vscode git:  
-![gitvscode](images/vscodegit.png)
+![gitvscode](screenshots/vscodegit.png)
 ## Quotes
 > This is a very profound quote, yes indeed  
 
@@ -34,8 +34,8 @@ Here are some section links:
 [Back to Top](#top)  
 [Back to Images](#images)  
 Here are some relative links:  
-[git cmd image](images/cmdgit.png)  
-[git vscode image](images/vscodegit.png)  
+[git cmd image](screenshots/cmdgit.png)  
+[git vscode image](screenshots/vscodegit.png)  
 [link page](pages/bait.md)
 ## Ordered and Unordered List
 Unordered List:  

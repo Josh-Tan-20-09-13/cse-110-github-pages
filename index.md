@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 > Here is a mix of both: `code`
+
 ## Links
 Here are some external links:  
 [This is a very cool link](https://setwithfriends.com)  

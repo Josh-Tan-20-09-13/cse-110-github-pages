@@ -37,15 +37,16 @@ Here are some relative links:
 [git cmd image](screenshots/cmdgit.png)  
 [git vscode image](screenshots/vscodegit.png)  
 [link page](pages/bait.md)
-## Ordered and Unordered List
-Unordered List:  
+## Unordered List:  
 - Get more knowledge
 - Secure records
-- Enjoy time
-Ordered List:
+- Enjoy time  
+
+## Ordered List:
 1. Wake up
 2. Exist
 3. Sleep
+
 ## Task list
 - [x] Wake up
 - [ ] Exist

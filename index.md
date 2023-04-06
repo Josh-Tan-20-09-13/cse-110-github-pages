@@ -1,4 +1,4 @@
-# User Page {#top}
+# User Page 
 # Text Stylization
 Hi everybody, I am Joshua Tan and this is my user page for the class **CSE 110** at the University of California, San Diego.  
 One of my favorite computer science related books is *The C Programming Language* by Brian Kernighan and Dennis Ritchie.  
@@ -6,7 +6,7 @@ I like to work on anything technology related and have recently taken a deep div
 I enjoy good food, socializing, video games, and sleeping.  
 ~~I can't think of anything else to write~~  
 ***Anyway, that is all for this section***
-## Images {#images}
+## Images
 Here is the screenshot of the git command line:  
 ![gitcmd](images/cmdgit.png)
 Here is the screenshot of the vscode git:  
@@ -24,6 +24,7 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
+> Here is a mix of both: `code`
 ## Links
 Here are some external links:  
 [This is a very cool link](https://setwithfriends.com)  
